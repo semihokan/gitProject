@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("1 deðiþtirdi");
 		System.out.println("1 deðiþtirdi");
 		System.out.println("second pc test");
+		System.out.println("second pc test");
 	}
 
 }
